@@ -8,5 +8,5 @@ Open terminal and run following commands:
 $ cd ~/.local/share/aurorae/themes/
 $ git clone https://github.com/otavioschwanck/arc_breeze.git
 
-![Window Decoration On Terminal](http://imgur.com/a/nt9pl)
+![Window Decoration On Terminal](http://i.imgur.com/3qqtpCn.png)
 
